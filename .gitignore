@@ -4,3 +4,11 @@
 *.ptx
 *.cubin
 *.fatbin
+serial_encryption/x64/*
+serial_decryption/x64/*
+CUDA_parallel_encryption/x64/*
+CUDA_parallel_decryption/x64/*
+serial_encryption/.vs/*
+serial_decryption/.vs/*
+CUDA_parallel_encryption/.vs/*
+CUDA_parallel_decryption/.vs/*

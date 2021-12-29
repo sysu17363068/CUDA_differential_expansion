@@ -1,0 +1,3 @@
+hello world! my GPU!
+00001111222233334444555566667777888899990000111122223333
+hello i love the CUDA and hate the nvidia!
