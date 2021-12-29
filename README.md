@@ -1,0 +1,2 @@
+# CUDA_differential_expansion
+使用CUDA与串行分别实现的差分扩展加密
